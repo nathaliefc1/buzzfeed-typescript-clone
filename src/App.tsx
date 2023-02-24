@@ -1,8 +1,11 @@
 import React from 'react';
+import Title from './components/Title';
 
 const App = () => {
   return (
-    <div></div>
+    <div>
+      <Title/>
+    </div>
   );
 }
 
