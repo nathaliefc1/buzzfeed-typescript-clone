@@ -21,3 +21,20 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+{
+  "clientID": "mFybNIJvzDTRnbzrQANhaZmz"
+  "clientSecret": "f2Dq+IrqMpcUc8+w4goU+.Z+x3f.NAeQ4LkHr1J_BycAFwlQGeu+9sMaBG6lYc_..M4Zrf4Sswrx,zWgJ,PGyLMssLaobu0rLO9ky6,CjGk0h4mp1qo3y8YNbLDOnGie"
+  "token": "AstraCS:mFybNIJvzDTRnbzrQANhaZmz:7f390871dc365025c9edef19073ddef66efdac397aa1f09da02b68536174808d"
+}
+
+name of collection: quirky_quizes_v2
+"documentId": "385f73be-e3f7-4b8e-bdc1-cbaed58ca5b0"
+buzzfeed
+Your database is now active!
+Database Details
+NamebuzzfeedKeyspacequizesProviderGoogle CloudRegioneurope-west1
+API - LAUNCH SWAGGER UI
+
+Backend in "server.ts"
+Frontend in "src"
