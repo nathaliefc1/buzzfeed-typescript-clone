@@ -22,7 +22,7 @@ const App = () => {
 
   return (
     <div>
-      <Title/>
+      <Title title={quiz?.title} subtitle={quiz?.subtitle}/>
     </div>
   );
 }
