@@ -1,8 +1,8 @@
 {
-    "quizId": "3483j33",
-    "title": "What cheese are you?",
-    "subtitle": "This quiz isn't cheesy or anything like that...",
-    "content": [
+  "quizId": "3483j33",
+  "title": "What cheese are you?",
+  "subtitle": "This quiz isn't cheesy or anything like that...",
+  "content": [
       {
         "id": 0,
         "text": "Pick a vacation destination:",
@@ -94,7 +94,7 @@
         ]
       }
     ],
-    "answers": [
+  "answers": [
       {
         "combination": ["New York", "Pizza", "Traditional"],
         "text": "Blue Cheese",
